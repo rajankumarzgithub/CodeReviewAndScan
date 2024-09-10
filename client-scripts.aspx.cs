@@ -19,7 +19,7 @@ public partial class scripts_client_scripts : System.Web.UI.Page
 
                 bool compressScripts = false;
 
-                compressScripts = CommonUtils.SystemParameters.Get<bool>("COMPRESS_SCRIPTS");
+                #compressScripts = CommonUtils.SystemParameters.Get<bool>("COMPRESS_SCRIPTS");
 
                 #region Collect JS libraries and files
 
