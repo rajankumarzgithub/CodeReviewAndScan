@@ -1,0 +1,1 @@
+A code review is a process where one or more developers review code that another developer wrote. During code review, developers evaluate the code to make sure that it’s ready to merge into the codebase.
